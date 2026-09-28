@@ -1,16 +1,31 @@
-## Hi there 👋
+# MrMoneyFrugal
 
-<!--
-**mrmoneyfrugal/mrmoneyfrugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal finance, investing and IPO research focused on Indian investors.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MrMoneyFrugal publishes data-driven research and educational content covering:
+
+* Indian IPOs
+* IPO GMP and listing performance
+* IPO subscription data
+* IPO market analytics
+* Mutual funds
+* Personal finance/Real Investing Experiences
+* Investing and wealth building
+
+## Research
+
+I maintain and analyze datasets related to the Indian IPO market, including issue prices, subscription data, GMP and listing performance.
+
+## Website
+
+https://mrmoneyfrugal.com/
+
+## Research & Analysis
+
+IPO Market Analytics: Listing Performance, GMP & Valuation Insights
+: https://mrmoneyfrugal.com/ipo-market-analytics/
+
+
+More research and datasets will be added over time.
